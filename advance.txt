@@ -1,0 +1,7 @@
+We  learn the advance cocept of the git and git hub 
+like how we can merge mutiple branches 
+how we can do create squash commit 
+how we  do rebase 
+how we can do revert and reset history 
+
+etc
