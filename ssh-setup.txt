@@ -1,0 +1,26 @@
+first create repository on local and remote 
+
+then switch to the repository on local by cd 
+
+
+for connecting  remote  repositroy  we can  adopt the ssh method 
+
+for ssh method we can  firt we create the  public and private key in .ssh/ repository 
+
+then copy the public key and  save git hub 
+
+then start the git  in a local repository 
+
+then we  set the brnch  
+git branch  -M  main 
+
+then we  set  or add the  remote repository 
+
+git remote add origin "remote repo url"
+
+then  we push the branch   
+
+git push -u origin main  
+
+this is compelete  instruction from  zero to hero     
+
